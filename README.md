@@ -8,7 +8,7 @@ BOT BY: Nυɠƚɾιx-DT
 
 TEAM  ⛩ ️༎░🇫🅢🅞🅒🅘🅔🅣🅨 ░༎ ⛩
 
-### FOR TERMUX USER💥
+### INSTALACION EN TERMUX💥
 
 ```bash
 > pkg update && pkg upgrade
