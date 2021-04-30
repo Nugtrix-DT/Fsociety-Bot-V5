@@ -1,5 +1,5 @@
 <p align="center">
-<img src="file:///C:/Users/ls616.DESKTOP-H9SCKLD/Downloads/Fsociety%20Nugtrix.jpg" width="220" height="220"/>
+<img src="file:///C:/Users/ls616.DESKTOP-H9SCKLD/Downloads/Fsociety%20Nugtrix.html" width="220" height="220"/>
 </p>
 
 # Fsociety-Bot-V5
