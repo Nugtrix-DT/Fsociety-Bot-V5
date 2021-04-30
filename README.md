@@ -1,5 +1,5 @@
 <p align="center">
-<img src="blob:https://web.whatsapp.com/6a326cf5-79c8-4e9e-a1ea-6d6cbcbd66e7" width="220" height="220"/>
+<img src="https://web.whatsapp.com/6a326cf5-79c8-4e9e-a1ea-6d6cbcbd66e7" width="220" height="220"/>
 </p>
 
 # Fsociety-Bot-V5
